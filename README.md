@@ -127,18 +127,7 @@ PDF Upload → ML Kit OCR → Text Processing → AI Analysis → Results Displa
      ↓
 Skills Extraction → Resume Rating → Job Matching → Export Report
 
-Copy
-🎯 Key Features Summary
-Feature	Technology	Status
-PDF Text Extraction	Google ML Kit	✅ Complete
-Skills Detection	Custom Algorithm	✅ Complete
-Resume Scoring	AI Logic	✅ Complete
-Job Matching	TensorFlow Lite	✅ Complete
-Language Detection	ML Kit	✅ Complete
-Report Export	File I/O	✅ Complete
-Material UI	Android Components	✅ Complete
-🚀 Final Year Project Ready
-Academic Value
+
 Machine Learning Integration - Real AI implementation
 
 Clean Architecture - Professional code structure
