@@ -9,6 +9,7 @@ SmartResumeAnalyzer/
 │   ├── ResultActivity.java # Analysis results display
 │   ├── SkillsAdapter.java  # Skills chips RecyclerView
 │   └── FlexibleGridLayoutManager.java
+
 ├── ai/                     # Artificial Intelligence Layer
 │   ├── MLKitTextExtractor.java    # Google ML Kit OCR
 │   ├── LanguageDetector.java      # Language identification
